@@ -39,6 +39,8 @@ dependencies:
   animated_drawer: ^0.0.4
   flutter_slider_drawer: ^2.1.1
   awesome_snackbar_content: ^0.0.5
+  flutter_chess_board: ^1.0.1
+  page_transition: ^2.0.9
 
 dev_dependencies:
   flutter_test:
@@ -65,6 +67,12 @@ flutter:
   # To add assets to your application, add an assets section, like this:
   assets:
     - assets/bg.jpg
+    - assets/game1.png
+    - assets/background.jpg
+    - assets/snakeladder.jpeg
+    - assets/chess.jpeg
+    - assets/avatar.jpg
+
   #   - images/a_dot_burr.jpeg
   #   - images/a_dot_ham.jpeg
 
